@@ -1,8 +1,5 @@
 
 
-
-**httpsOliveira/httpsOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello there! 👋 I'm [Kaique Oliveira], a passionate and enthusiastic aspiring developer. I'm thrilled to be on this exciting journey of becoming a proficient programmer.
 
 Skills:
