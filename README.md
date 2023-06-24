@@ -30,8 +30,8 @@ Education:
 
 Contact:
 
-📧 Feel free to reach out to me via ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [professional.kaique@gmail.com] or connect with me on 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [https://www.linkedin.com/in/kaique-oliveira-3a3277260/]. 
+📧 Feel free to reach out to me via Gmail: [professional.kaique@gmail.com] or connect with me on 
+LinkedIn [https://www.linkedin.com/in/kaique-oliveira-3a3277260/]. 
 I'm always open to new opportunities, collaborations, or even just a friendly chat!
 
 Let's code, learn, and grow together! 🌟
