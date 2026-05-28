@@ -31,7 +31,7 @@ Education:
 Contact:
 
 📧 Feel free to reach out to me via Gmail: [professional.kaique@gmail.com] or connect with me on 
-LinkedIn [https://www.linkedin.com/in/kaique-oliveira-3a3277260/]. 
+LinkedIn [https://www.linkedin.com/in/kaique-oliveira-dev/]. 
 I'm always open to new opportunities, collaborations, or even just a friendly chat!
 
 Let's code, learn, and grow together! 🌟
